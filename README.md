@@ -12,7 +12,11 @@ npm install
 
 ## Access Endpoint
 
-In order to access the endpoint from an application, the server will need to be started.
+In order to access the endpoint from an application, the server will need to be started by running
+
+```bash
+npm start
+```
 
 ```bash
 http://localhost:3001/students
